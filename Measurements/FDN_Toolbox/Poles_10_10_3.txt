@@ -1,0 +1,57 @@
+Ehrlich-Aberth Iteration with 6047 poles and a maximum of 50 iterations
+Iteration: 1, Maximum Improvement: 0.13138, Worst Pole Quality: 0.17326, Number of Non-converged Poles: 6047
+Iteration: 2, Maximum Improvement: 0.12662, Worst Pole Quality: 0.17475, Number of Non-converged Poles: 6047
+Iteration: 3, Maximum Improvement: 0.12772, Worst Pole Quality: 0.18322, Number of Non-converged Poles: 6047
+Iteration: 4, Maximum Improvement: 0.091952, Worst Pole Quality: 0.18383, Number of Non-converged Poles: 5887
+Iteration: 5, Maximum Improvement: 0.11142, Worst Pole Quality: 0.17975, Number of Non-converged Poles: 2377
+Iteration: 6, Maximum Improvement: 0.089446, Worst Pole Quality: 0.18631, Number of Non-converged Poles: 1015
+Iteration: 7, Maximum Improvement: 0.093953, Worst Pole Quality: 0.17879, Number of Non-converged Poles: 524
+Iteration: 8, Maximum Improvement: 0.042152, Worst Pole Quality: 0.18576, Number of Non-converged Poles: 322
+Iteration: 9, Maximum Improvement: 0.072644, Worst Pole Quality: 0.18049, Number of Non-converged Poles: 240
+Iteration: 10, Maximum Improvement: 0.044664, Worst Pole Quality: 0.18709, Number of Non-converged Poles: 204
+Iteration: 11, Maximum Improvement: 0.045893, Worst Pole Quality: 0.18349, Number of Non-converged Poles: 186
+Iteration: 12, Maximum Improvement: 0.08329, Worst Pole Quality: 0.17795, Number of Non-converged Poles: 181
+Iteration: 13, Maximum Improvement: 0.046868, Worst Pole Quality: 0.17885, Number of Non-converged Poles: 180
+Iteration: 14, Maximum Improvement: 0.046383, Worst Pole Quality: 0.17829, Number of Non-converged Poles: 180
+Iteration: 15, Maximum Improvement: 0.049839, Worst Pole Quality: 0.18275, Number of Non-converged Poles: 180
+Iteration: 16, Maximum Improvement: 0.048852, Worst Pole Quality: 0.17784, Number of Non-converged Poles: 180
+Iteration: 17, Maximum Improvement: 0.052373, Worst Pole Quality: 0.18127, Number of Non-converged Poles: 180
+Iteration: 18, Maximum Improvement: 0.050725, Worst Pole Quality: 0.17665, Number of Non-converged Poles: 180
+Iteration: 19, Maximum Improvement: 0.054542, Worst Pole Quality: 0.17962, Number of Non-converged Poles: 180
+Iteration: 20, Maximum Improvement: 0.052206, Worst Pole Quality: 0.18061, Number of Non-converged Poles: 180
+Iteration: 21, Maximum Improvement: 0.056406, Worst Pole Quality: 0.1796, Number of Non-converged Poles: 180
+Iteration: 22, Maximum Improvement: 0.053433, Worst Pole Quality: 0.17849, Number of Non-converged Poles: 180
+Iteration: 23, Maximum Improvement: 0.05801, Worst Pole Quality: 0.18219, Number of Non-converged Poles: 180
+Iteration: 24, Maximum Improvement: 0.054499, Worst Pole Quality: 0.18733, Number of Non-converged Poles: 180
+Iteration: 25, Maximum Improvement: 0.059389, Worst Pole Quality: 0.18721, Number of Non-converged Poles: 180
+Iteration: 26, Maximum Improvement: 0.055461, Worst Pole Quality: 0.1863, Number of Non-converged Poles: 180
+Iteration: 27, Maximum Improvement: 0.060567, Worst Pole Quality: 0.1862, Number of Non-converged Poles: 180
+Iteration: 28, Maximum Improvement: 0.05636, Worst Pole Quality: 0.18551, Number of Non-converged Poles: 180
+Iteration: 29, Maximum Improvement: 0.061564, Worst Pole Quality: 0.18518, Number of Non-converged Poles: 180
+Iteration: 30, Maximum Improvement: 0.057218, Worst Pole Quality: 0.17693, Number of Non-converged Poles: 180
+Iteration: 31, Maximum Improvement: 0.062389, Worst Pole Quality: 0.18414, Number of Non-converged Poles: 180
+Iteration: 32, Maximum Improvement: 0.058051, Worst Pole Quality: 0.17634, Number of Non-converged Poles: 180
+Iteration: 33, Maximum Improvement: 0.06305, Worst Pole Quality: 0.18421, Number of Non-converged Poles: 180
+Iteration: 34, Maximum Improvement: 0.058868, Worst Pole Quality: 0.17573, Number of Non-converged Poles: 180
+Iteration: 35, Maximum Improvement: 0.063546, Worst Pole Quality: 0.18544, Number of Non-converged Poles: 180
+Iteration: 36, Maximum Improvement: 0.059671, Worst Pole Quality: 0.1751, Number of Non-converged Poles: 180
+Iteration: 37, Maximum Improvement: 0.063876, Worst Pole Quality: 0.18669, Number of Non-converged Poles: 180
+Iteration: 38, Maximum Improvement: 0.060456, Worst Pole Quality: 0.17445, Number of Non-converged Poles: 180
+Iteration: 39, Maximum Improvement: 0.064035, Worst Pole Quality: 0.18797, Number of Non-converged Poles: 180
+Iteration: 40, Maximum Improvement: 0.061206, Worst Pole Quality: 0.17777, Number of Non-converged Poles: 180
+Iteration: 41, Maximum Improvement: 0.064022, Worst Pole Quality: 0.18997, Number of Non-converged Poles: 180
+Iteration: 42, Maximum Improvement: 0.061899, Worst Pole Quality: 0.18476, Number of Non-converged Poles: 180
+Iteration: 43, Maximum Improvement: 0.063832, Worst Pole Quality: 0.19058, Number of Non-converged Poles: 180
+Iteration: 44, Maximum Improvement: 0.062511, Worst Pole Quality: 0.18513, Number of Non-converged Poles: 180
+Iteration: 45, Maximum Improvement: 0.063465, Worst Pole Quality: 0.19189, Number of Non-converged Poles: 180
+Iteration: 46, Maximum Improvement: 0.063014, Worst Pole Quality: 0.18556, Number of Non-converged Poles: 180
+Iteration: 47, Maximum Improvement: 0.062919, Worst Pole Quality: 0.1864, Number of Non-converged Poles: 180
+Iteration: 48, Maximum Improvement: 0.063383, Worst Pole Quality: 0.18607, Number of Non-converged Poles: 180
+Iteration: 49, Maximum Improvement: 0.062196, Worst Pole Quality: 0.18529, Number of Non-converged Poles: 180
+Iteration: 50, Maximum Improvement: 0.063595, Worst Pole Quality: 0.18663, Number of Non-converged Poles: 180
+Number of Exact Deflations: 35917
+Warning: Some poles did not converge: 5871 instead of 6047 
+> In dss2pr (line 87)
+  In FDN_Toolbox_Algorithm (line 111) 
+Final number of poles are: 5871 of possible 6047 
+Maximum devation betwen time-domain and pole-residues is 0.748700
